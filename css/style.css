@@ -1,0 +1,25 @@
+/* Estil general de la pàgina */
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+
+/* Capçalera */
+header {
+    background-color: #87CEEB;
+    padding: 25px;
+    text-align: center;
+}
+
+/* Contingut principal */
+main {
+    background-color: #E8F5E9;
+    padding: 25px;
+}
+
+/* Peu de pàgina */
+footer {
+    background-color: #FFDAB9;
+    padding: 20px;
+    text-align: center;
+}
